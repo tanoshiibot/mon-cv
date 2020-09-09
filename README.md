@@ -2,6 +2,8 @@
 
 Création d'un CV en HTML/CSS pour le parcours *Progressive Enhancement* de BeCode.
 
+Vous pouvez y accéder en cliquant [ici](https://tanoshiibot.github.io/mon-cv/)
+
 ## Commentaires de développement
 
 * J'ai réussi à faire un mockup de la page en utilisant balsamiq, c'est très utile pour comprendre dans quoi on se lance.
